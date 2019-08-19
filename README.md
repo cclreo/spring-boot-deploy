@@ -16,10 +16,10 @@
 ```python
   python deploy-jar.py deploy_path remote_dir jar_name
 ```
-例如要发布程序为service-admin.1.0.0.jar,
-发布的本地路径为C:\service\service-admin,
-服务器远程路径为/service/service-admin
-发布脚本为  python deploy-jar.py C:\service\service-admin /service/service-admin service-admin.1.0.0.jar
+例如要发布程序为`service-admin-1.0.0.jar`,
+发布的本地路径为`C:\service\service-admin`,
+服务器远程路径为`/service/service-admin`
+发布脚本为  `python deploy-jar.py C:\service\service-admin /service/service-admin service-admin-1.0.0.jar`
 
 # 参考文档
   [使用python脚本进行SpringBoot项目多节点上传部署](https://www.jianshu.com/p/74979fbdb103)
