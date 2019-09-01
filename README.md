@@ -5,7 +5,7 @@
 
 ## 本地环境
   - python3
-  - 安装paramko库
+  - 安装paramko库，建议使用pip install paramiko  --ignore-installed
   
 ## 服务器环境
   - linux
